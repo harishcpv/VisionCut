@@ -1,0 +1,7 @@
+.env
+temp_uploaded_video.mp4
+final_output_visioncut.mp4
+scene_*.mp3
+scene_*.vtt
+frame_*.jpg
+__pycache__/
