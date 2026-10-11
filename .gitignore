@@ -5,3 +5,15 @@ scene_*.mp3
 scene_*.vtt
 frame_*.jpg
 __pycache__/
+.env.*
+!.env.example
+.venv/
+venv/
+runs/
+.credentials/
+client_secret*.json
+youtube_token*.json
+.streamlit/secrets.toml
+.pytest_cache/
+*.pyc
+tests/__pycache__/
